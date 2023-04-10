@@ -21,7 +21,7 @@
     "format": "prettier --write \"**/*.ts\""
   },
   "dependencies": {
-    "@com-tiles/provider": "1.0.0-rc.0"
+    "@com-tiles/provider": "git+ssh://git@github.com:markiearnold/provider.git"
   },
   "peerDependencies": {
     "maplibre-gl": "^2.1.7"
